@@ -14,7 +14,13 @@ Features:
   - Error Handling
 
 ### 2. Password Generator
-  Generates secure random passwords.
+
+Features:
+- Generates secure random passwords
+- Supports custom password length
+- Input validation using try-except
+- Minimum password length check
+- Uses letters, numbers, and special characters
 
 ### 3. To-Do Application
   Simple task management program.
